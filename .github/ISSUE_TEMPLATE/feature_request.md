@@ -1,3 +1,11 @@
+---
+name: Feature Request
+about: Suggest an idea for this project
+title: "[FEATURE] "
+labels: feature
+assignees: ''
+---
+
 ## Description
 
 <!-- The description of the feature -->
