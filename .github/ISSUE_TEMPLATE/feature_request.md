@@ -30,7 +30,7 @@ If there are benchmarks, qualitative analysis or similar evaluation methods, ple
 
 <!--
 Include your description about the feature request. Please don't refer to external documents, try to write down what needs to be done. 
-Include supporitng documents as references.  
+Include supporting documents as references.  
 --> 
 
 ## Testing 
