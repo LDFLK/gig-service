@@ -28,7 +28,7 @@ Out of scope actions/results expected, which would be key indicators to decide t
 Mention the main reason why this feature is required. You could use other supporting reasons to back it up. 
 -->
 
-## Sucess Metrics
+## Success Metrics
 
 <!-- 
 If there are benchmarks, qualitative analysis or similar evaluation methods, please include the results here
@@ -38,7 +38,7 @@ If there are benchmarks, qualitative analysis or similar evaluation methods, ple
 
 <!--
 Include your description about the feature request. Please don't refer to external documents, try to write down what needs to be done. 
-Include supporitng documents as references.  
+Include supporting documents as references.  
 --> 
 
 ## Testing 
